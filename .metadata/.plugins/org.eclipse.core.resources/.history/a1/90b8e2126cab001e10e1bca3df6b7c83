@@ -1,0 +1,5 @@
+package com.multi.basic.member.controller;
+
+public class MemberController {
+
+}

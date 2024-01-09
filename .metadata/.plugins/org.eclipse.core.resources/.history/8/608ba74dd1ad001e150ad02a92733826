@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<!-- 실질적인 SQL이 들어가는 Mapper -->
+<mapper namespace="memberMapper">
+ID 		VARCHAR(30) PRIMARY KEY,
+    PASSWORD 	VARCHAR(100) NOT NULL,
+    NAME VARCHAR(15) NOT NULL,
+    AGE INT,
+    GENDER  VARCHAR(10), 
+    PHONE VARCHAR(13),
+    ADDRESS  VARCHAR(100),
+    EMAIL VARCHAR(100),
+    HOBBY VARCHAR(300),
+    ENROLLDATE DATETIME DEFAULT CURRENT_TIMESTAMP
+    <resultMap type="" id="">
+    	<result property="" column=""/>
+    </resultMap>
+</mapper>

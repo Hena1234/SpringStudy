@@ -1,0 +1,15 @@
+127.0.0.1 - - [06/Jan/2024:08:59:52 +0900] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Jan/2024:08:59:53 +0900] "GET /basic/WEB-INF/classes/com/multi/basic/member/controller/MemberController.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [06/Jan/2024:08:59:54 +0900] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [06/Jan/2024:09:00:01 +0900] "GET /basic/WEB-INF/classes/com/multi/basic//member/memberServlet.do HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [06/Jan/2024:09:00:06 +0900] "GET /basic/WEB-INF/classes/com/multi/basic/member/memberServlet.do HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [06/Jan/2024:09:00:11 +0900] "GET /basicbasic/member/memberServlet.do HTTP/1.1" 404 793
+0:0:0:0:0:0:0:1 - - [06/Jan/2024:09:00:17 +0900] "GET /basic/member/memberServlet.do HTTP/1.1" 500 10852
+127.0.0.1 - - [06/Jan/2024:09:03:43 +0900] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Jan/2024:09:03:43 +0900] "GET /basic/WEB-INF/views/member/index.jsp HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [06/Jan/2024:09:04:07 +0900] "GET /basic/member/index.do HTTP/1.1" 200 3853
+0:0:0:0:0:0:0:1 - - [06/Jan/2024:09:04:07 +0900] "GET /basic/resources/css/style.css HTTP/1.1" 200 809
+0:0:0:0:0:0:0:1 - - [06/Jan/2024:09:04:07 +0900] "GET /basic/resources/images/logo-spring.png HTTP/1.1" 200 10513
+0:0:0:0:0:0:0:1 - - [06/Jan/2024:09:04:07 +0900] "GET /basic/resources/js/jquery-3.6.0.min.js HTTP/1.1" 200 89501
+0:0:0:0:0:0:0:1 - - [06/Jan/2024:09:04:09 +0900] "GET /basic/member/memberServlet.do HTTP/1.1" 200 5246
+0:0:0:0:0:0:0:1 - - [06/Jan/2024:09:04:12 +0900] "GET /basic/member/memberParams.do HTTP/1.1" 200 5259

@@ -1,0 +1,5 @@
+package com.multi.basic.member.model.vo;
+
+public class Member {
+
+}

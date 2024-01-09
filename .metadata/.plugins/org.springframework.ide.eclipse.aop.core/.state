@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="01_SpringBasic"/>
+<aop-project name="02_SpringDIMybatis"/>
+<aop-project name="04_SpringAJAX"/>
+</aop-reference-model>
